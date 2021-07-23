@@ -14,14 +14,14 @@ Scene builder
 Swing
 
 
-Requirements
 
+Requirements:
 For building and running the application you need:
 
 JDK 1.8 or newer
 IntelliJ IDEA
 Scene builder
-Xampp
+Xampp localhost
 
 Port:
 Localhost: 8080
