@@ -7,11 +7,11 @@ I developed a JavaFX application by using JavaFx technology in IntelliJ IDEA.
 
 Tech stack:
 
-IntelliJ IDEA
+   - IntelliJ IDEA
 
-Scene builder
+   - Scene builder
 
-Swing
+   - Swing 
 
 
 
@@ -20,16 +20,16 @@ Requirements:
 For building and running the application you need:
 
 
-JDK 1.8 or newer
+   - JDK 1.8 or newer
 
-IntelliJ IDEA
+   - IntelliJ IDEA
 
-Scene builder
+   - Scene builder
 
-Xampp localhost
+   - Xampp localhost
 
 
 Port:
 
-Localhost: 8080
+   - Localhost: 8080
 
